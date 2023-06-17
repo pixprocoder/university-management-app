@@ -39,4 +39,5 @@
 - husky setup
 - lint-stage setup
 - app and modules folder create
-- interface => model
+- interface => model => service => controller => route
+- utils file created inside model
