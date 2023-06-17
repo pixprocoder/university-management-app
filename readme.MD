@@ -6,11 +6,18 @@
 - cors
 - dotenv
 - ts-node-dev
+- eslint
+- prettier
+- eslint-config-prettier
+- husky
 
 ### Constant Files Must added
 
 - .gitignore
 - .env
+- .eslintrc
+- .eslintignore
+- prettier
 
 #### Step by step I am going
 
@@ -25,3 +32,7 @@
 - config folder created and .env file connected with index.ts file
 - start script added to ts-node-dev
 - middleware setup (cors, parser)
+- eslint installed and setup
+- .eslintignore file added
+- .prettier setup
+- husky setup
