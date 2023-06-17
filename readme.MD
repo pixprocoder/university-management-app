@@ -10,6 +10,7 @@
 - prettier
 - eslint-config-prettier
 - husky
+- lint-stage
 
 ### Constant Files Must added
 
@@ -36,3 +37,4 @@
 - .eslintignore file added
 - .prettier setup
 - husky setup
+- lint-stage setup
