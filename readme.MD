@@ -38,3 +38,5 @@
 - .prettier setup
 - husky setup
 - lint-stage setup
+- app and modules folder create
+- interface => model
