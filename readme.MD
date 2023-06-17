@@ -41,3 +41,4 @@
 - app and modules folder create
 - interface => model => service => controller => route
 - utils file created inside model
+- improve eslint
