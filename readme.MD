@@ -3,11 +3,14 @@
 - Typescript
 - Mongoose
 - Express.js
+- cors
+- dotenv
 - ts-node-dev
 
 ### Constant Files Must added
 
 - .gitignore
+- .env
 
 #### Step by step I am going
 
@@ -21,3 +24,4 @@
 - moved server.ts and app.ts file to src folder
 - config folder created and .env file connected with index.ts file
 - start script added to ts-node-dev
+- middleware setup (cors, parser)
